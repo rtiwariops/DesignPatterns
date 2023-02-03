@@ -11,7 +11,7 @@ This repository contains information on various microservices design patterns th
 ## Patterns
 
 1. [API Gateway](https://docs.microsoft.com/en-us/azure/architecture/patterns/api-gateway)
-2. [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
+2. [Circuit Breaker](https://github.com/rtiwariops/DesignPatterns/tree/main/fastAPI/circuit-breaker)
 3. [Bounded Context](https://microservices.io/patterns/microservice-bounded-context.html)
 4. [Service Registry](https://docs.microsoft.com/en-us/azure/architecture/patterns/service-registry)
 5. [Saga](https://microservices.io/patterns/data/saga.html)
